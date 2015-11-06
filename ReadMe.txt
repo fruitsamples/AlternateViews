@@ -14,11 +14,11 @@ landscape view controller.  It uses the above two properties to achieve the visu
 
 
 Build Requirements
-Mac OS X 10.5.6 or later, iPhone SDK 3.0
+iOS 4.0 SDK
 
 
 Runtime Requirements
-Mac OS X 10.5.6 or later, iPhone SDK 3.0
+iPhone OS 3.2 or later
 
 
 Using the Sample
@@ -37,6 +37,7 @@ LandscapeViewController.h/.m - The main UIViewController for landscape device or
 
 
 Changes from Previous Versions
+1.1 - Upgraded project to build with the iOS 4.0 SDK.
 1.0 - First release
 
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
